@@ -12,5 +12,6 @@ author: Manthan Thakar
 externalLink: false
 ---
 
-![sending](assets/images/hitch-sending.gif)
-![receiving](assets/images/hitch-receiving.gif)
+![sending](https://media.giphy.com/media/3oFzlWxv0qVNHtcjkc/giphy.gif)
+
+![receiving](https://media.giphy.com/media/3ohc1etZoSRyiK6FEY/giphy.gif)
