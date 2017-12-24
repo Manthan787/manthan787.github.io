@@ -1,0 +1,20 @@
+---
+title: ":family: Conneige, an IoT device to better connect families [MIT Media Lab Hackathon 2017]"
+layout: post
+date: 2017-08-02 22:10
+tag: hitch
+headerImage: true
+projects: true
+description: "A simple desktop app for file-transfer in local network using Electron."
+category: project
+author: Manthan Thakar
+externalLink: false
+---
+
+Conneige is an IoT device designed to connect students with their families as part of MIT's connected care hackathon at the Media Lab. We used Particle's [Photon microcontroller](https://www.particle.io/products/hardware/photon-wifi-dev-kit) and [Particle Cloud](https://www.particle.io/products/platform/particle-cloud) to connect IoT devices.
+
+In the team of designers and business developers, my responsibilites included coding and testing the IoT device.
+
+Here's the presentation:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7We1SB4k6jQX7La8PBTgwkpj0HfndwfcfCX17IxGkiKZBthkajHO8cYSuRkjKiAIDm98aG9ISlOEs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
