@@ -6,11 +6,13 @@ category: blog
 projects: true
 ---
 
+:octocat: [Source code on GitHub](https://github.com/manthan787/flight-delays)
+
 In this post I talk about my flight delay analysis using flight [on-time performance data](http://web.archive.org/web/20170113153149/http://transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time) published by Bureau of Transportation Statistics.
 
 The flight dataset used contains flight data from 1987 to 2015. While this dataset isn't very large, it still requires some careful data processing. For this purpose, I decided to use Apache Hadoop for data cleaning and processing. The cleaned data is then used for visualizations using R.
 
-If you'd like to dig deep the [source code](https://github.com/manthan787/flight-delays) is available.
+If you'd like to dig deep, you can play around with the source code.
 
 ## Data Processing
 

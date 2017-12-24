@@ -11,6 +11,8 @@ author: Manthan Thakar
 externalLink: false
 ---
 
+:octocat: [Source code on GitHub](https://github.com/manthan787/hitch)
+
 Hitch is a cross-platform version of AirDrop. It allows easy file-transfer among devices in the same network, just like AirDrop. Underneath, it uses ZeroConf to discover all the hitch-enabled devices.
 
 Here's how simple sending a file using Hitch is:
@@ -31,7 +33,3 @@ Here's how receiving a file looks like:
 The inspiration for this project came from the need of AirDrop like easy file transfer app for all platforms (windows, linux, mac e.g.).
 
 Initially, the app was built using Python only because how simple it is to do network programming in Python. But eventually, I decided to rewrite the app in Javascript using the Electron framework in favor of better UI.
-
-## Source code
-
-The project can be found on its [github page](https://github.com/manthan787/hitch). The abandoned Python version is available: [here](https://github.com/Manthan787/pyhitch).
