@@ -1,7 +1,7 @@
 ---
 title: ":family: Conneige, an IoT device to better connect families [MIT Media Lab Hackathon 2017]"
 layout: post
-date: 2017-08-02 22:10
+date: 2017-04-24 22:10
 tag: hitch
 headerImage: true
 projects: true
