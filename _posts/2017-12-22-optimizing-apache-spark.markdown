@@ -5,8 +5,7 @@ category: blog
 projects: true
 ---
 
-:octocat: [Source code on GitHub](https://github.com/spark-optimizations/join-optimizations).
----
+:octocat: [Source code on GitHub](https://github.com/spark-optimizations/join-optimizations)
 
 **TLDR** With our Scala compiler plugin, in the best case we were able to decrease shuffled bytes by 89% and runtime by 24%.
 
