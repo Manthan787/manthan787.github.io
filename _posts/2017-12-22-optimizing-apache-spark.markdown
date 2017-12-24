@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Optimizing joins in Apache Spark using Scala compiler plugin and broadcast join"
+title:  ":sparkles: Optimizing joins in Apache Spark using Scala compiler plugin and broadcast join"
 category: blog
+projects: true
 ---
 
 **TLDR** With our Scala compiler plugin, in the best case we were able to decrease shuffled bytes by 89% and runtime by 24%. Source code, [here](https://github.com/spark-optimizations/join-optimizations).
