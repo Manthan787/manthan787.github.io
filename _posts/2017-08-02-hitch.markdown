@@ -5,7 +5,6 @@ date: 2017-08-02 22:10
 tag: hitch
 headerImage: true
 projects: true
-hidden: false # don't count this post in blog pagination
 description: "A simple desktop app for file-transfer in local network using Electron."
 category: project
 author: Manthan Thakar
