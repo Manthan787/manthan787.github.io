@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/resume.pdf
 
-url: https://manthan787.github.io
+url: http://manthan.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
