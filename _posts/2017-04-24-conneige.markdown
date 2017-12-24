@@ -13,7 +13,7 @@ externalLink: false
 
 Conneige is an IoT device designed to connect students with their families as part of MIT's connected care hackathon at the Media Lab. We used Particle's [Photon microcontroller](https://www.particle.io/products/hardware/photon-wifi-dev-kit) and [Particle Cloud](https://www.particle.io/products/platform/particle-cloud) to connect IoT devices.
 
-In the team of designers and business developers, my responsibilites included coding and testing the IoT device.
+In the team of designers and business developers, my responsibilites included programming Photon microcontroller using their Node JS SDK and testing the IoT device.
 
 Here's the presentation:
 
